@@ -1,0 +1,16 @@
+[
+{
+	"modId": "EP",
+	"name": "Enchanting Plus",
+	"description": "Advanced enchanting, disenchanting, plus magical blocks, items and tools!",
+	"version": "0.0.1",
+	"rl": "",
+	"updateUrl": "",
+	"authorList": [ "Judders96" ],
+	"credits": "Judders96 with the help of pahimar's lets mod!",
+	"logoFile": "",
+	"screenshots": [],
+	"parent": "",
+	"dependencies": []
+}
+]
